@@ -60,6 +60,7 @@ Podcast apps let you subscribe to, download, and listen to podcasts. This list c
 - [Podchaser](https://podchaser.com) - Podcast discovery and tracking with a web player and ratings system.
 - [Pocket Casts Web](https://play.pocketcasts.com) - Web player for Pocket Casts subscribers.
 - [Podurama](https://podurama.com) - Free web-based podcast player with cross-device sync.
+- [SoundCarrot](https://soundcarrot.com) - Kids / family-friendly podcast directory and player featuring curated children's podcasts, age-based discovery, playlists, parental controls, and Yoto integration. Free to use.
 
 ## Open Source
 
